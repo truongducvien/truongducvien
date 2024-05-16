@@ -15,7 +15,13 @@
   <a href="" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOaSZeyJFLgJEn_XuU0GgTAu4Rnvkdl_udP0MZCS9o1g&s" alt="Sequelize" title="Sequelize" height="40"/>
   </a>
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQltfbPnGvdTOlfmF5F-u-SCmW9NoJ5yNybxnAGeckXsg&s" alt="Mongoose" title="Mongoose" min-width="40" height="40"/>
+  </a>
   <a href="" target="_blank">
     <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff10pjx8jeq116dcq3j29.jpg" alt="PassportJS" title="PassportJS" height="40"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jCtEO6HH2IS66vGM_BOhmUOBo7r8mUGSukqfSy36ow&s" alt="Amazon S3" title="Amazon S3" min-width="40" height="40"/>
   </a>
 </div>
