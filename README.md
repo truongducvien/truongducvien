@@ -24,4 +24,7 @@
   <a href="" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jCtEO6HH2IS66vGM_BOhmUOBo7r8mUGSukqfSy36ow&s" alt="Amazon S3" title="Amazon S3" min-width="40" height="40"/>
   </a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" title="Webpack" min-width="40" height="40"/>
+  </a>
 </div>
